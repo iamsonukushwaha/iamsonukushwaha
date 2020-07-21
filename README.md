@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 
 
-<br><br><br><br>
+<br><br>
+
+![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br><br>
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
 	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
