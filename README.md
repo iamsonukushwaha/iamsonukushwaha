@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-**Glad to see you here!** :star_struck: <br><br><br><br>
-
+**Glad to see you here!** :star_struck: <br><br>
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
 
