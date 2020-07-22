@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyingsonu122.flyingsonu122)
 -->
 
 **Glad to see you here!** :star_struck: <br><br>
@@ -23,6 +26,8 @@ If you just want to email me, go ahead send an email to flyingsonu736@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
 
+
+
 <br>
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
@@ -31,8 +36,13 @@ If you just want to email me, go ahead send an email to flyingsonu736@gmail.com
 	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
 	
+	
 </p>
-<br><br>
+<br>
+
+<br>
+
+
 <!--
 You can **find me on [LinkedIn](https://www.linkedin.com/in/sonukumarkushwaha/)**. 
 **Say Hi on Twitter([@sonukumarkush12](https://twitter.com/sonukumarkush12))!** :heart: 💬
