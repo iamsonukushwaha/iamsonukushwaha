@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![ViewCount](https://views.whatilearened.today/views/github/flyingsonu122/flyingsonu122.svg?cache=remove)](#)
 ---
 -->
-<p align="center">  
+
 **Glad to see you here!** :star_struck: <br><br>
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
@@ -32,7 +32,7 @@ If you just want to email me, go ahead send an email to flyingsonu736@gmail.com
 
 
 <br>
-</p>
+
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
 	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
