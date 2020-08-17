@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
 If you just want to email me, go ahead send an email to flyingsonu736@gmail.com 
-<br>
+<br><br><br>
 📫 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 
-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
 
 
