@@ -27,23 +27,17 @@ Here are some ideas to get you started:
 I love to learn and contribute in any and every possible way. <br> 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
-
 If you just want to email me, go ahead send an email to flyingsonu736@gmail.com 
-<br><br>
+<br>
 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 
-
 <br><br>
-
-
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
-
-<br><br>
-
+<br>
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html" alt="flyingsonu122" /></p>
 
 
-<br>
+<br><br>
 
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
