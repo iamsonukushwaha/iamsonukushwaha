@@ -38,7 +38,9 @@ How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha12
 
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html" alt="flyingsonu122" /></p>
+<br><br>
+
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html" alt="flyingsonu122" /></p>
 
 
 <br>
