@@ -19,19 +19,27 @@ Here are some ideas to get you started:
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/flyingsonu122/flyingsonu122.svg?cache=remove)](#)
+
+![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
 ---
 -->
-
-**Glad to see you here!** :star_struck: <br><br>
- I love to learn and contribute in any and every possible way. <br>
+<p align="center">**Glad to see you here!** :star_struck: <br><br> 
+ I love to learn and contribute in any and every possible way. <br> 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
+
 If you just want to email me, go ahead send an email to flyingsonu736@gmail.com 
 <br><br>
 📫 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 
+  </p> 
 
-![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html" alt="flyingsonu122" /></p>
 
 
 <br>
