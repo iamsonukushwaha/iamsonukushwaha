@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![ViewCount](https://views.whatilearened.today/views/github/flyingsonu122/flyingsonu122.svg?cache=remove)](#)
 
 ![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
----
 
 
 
@@ -34,7 +33,7 @@ JSON         29 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 **See My Blogs**
-<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [Be a Flamingo In a Flock of Pigeons](https://medium.com/@sonukumarkushwaha/be-a-flamingo-in-a-flock-of-pigeons-691642409263?source=rss-93f249b41b22------2)
 - [Mohandas Karamchand Gandhi @150](https://medium.com/@sonukumarkushwaha/mohandas-karamchand-gandhi-150-aa7784d69b7d?source=rss-93f249b41b22------2)
