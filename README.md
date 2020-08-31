@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 **Glad to see you here!** :star_struck: <br><br> 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
-How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 <br>
+How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
+<br><br>
 **See My Blogs**
+<br>
 <!-- BLOG-POST-LIST:START -->
 - [Be a Flamingo In a Flock of Pigeons](https://medium.com/@sonukumarkushwaha/be-a-flamingo-in-a-flock-of-pigeons-691642409263?source=rss-93f249b41b22------2)
 - [See the flower,how generously it distributes perfume and honney .](https://medium.com/@sonukumarkushwaha/see-the-flower-how-generously-it-distributes-perfume-and-honney-18a8f85fbf96?source=rss-93f249b41b22------2)
