@@ -24,14 +24,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 	
 **Glad to see you here!** :star_struck: <br><br> 
-I love to learn and contribute in any and every possible way. <br> 
+I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
-<br>
-If you just want to email me, go ahead send an email to flyingsonu736@gmail.com 
-<br>
 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
-
-See my blogs:question::fire:
+<br>
+**See My Blogs**
 <!-- BLOG-POST-LIST:START -->
 - [Be a Flamingo In a Flock of Pigeons](https://medium.com/@sonukumarkushwaha/be-a-flamingo-in-a-flock-of-pigeons-691642409263?source=rss-93f249b41b22------2)
 - [See the flower,how generously it distributes perfume and honney .](https://medium.com/@sonukumarkushwaha/see-the-flower-how-generously-it-distributes-perfume-and-honney-18a8f85fbf96?source=rss-93f249b41b22------2)
