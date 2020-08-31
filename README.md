@@ -28,7 +28,23 @@ I love to learn and contribute in any and every possible way.
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
-<br><br>
+<br>
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Other        5 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   39.11 % 
+Python       3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+JavaScript   3 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
+Go           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+```
+<!--END_SECTION:waka-->
+-------
+
+<br>
 **See My Blogs**
 <br>
 <!-- BLOG-POST-LIST:START -->
