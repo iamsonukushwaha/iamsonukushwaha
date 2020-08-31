@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
 
 
-
+-->
+<!--
 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
@@ -31,7 +32,7 @@ Go           43 mins         █▒░░░░░░░░░░░░░░░
 JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 <!--END_SECTION:waka-->
-
+<!--
 **See My Blogs**
 
 <!-- BLOG-POST-LIST:START -->
@@ -42,7 +43,7 @@ JSON         29 mins         █░░░░░░░░░░░░░░░░
 - [History of Cricket](https://medium.com/@sonukumarkushwaha/history-of-cricket-c149ef4c503a?source=rss-93f249b41b22------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+
 
 -->
 
