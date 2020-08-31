@@ -30,7 +30,6 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 <br>
 
--------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
@@ -42,7 +41,6 @@ Go           43 mins         █▒░░░░░░░░░░░░░░░
 JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 <!--END_SECTION:waka-->
--------
 
 <br>
 **See My Blogs**
