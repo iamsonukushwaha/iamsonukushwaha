@@ -31,7 +31,7 @@ How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha12
 <br>
 
 
-📊 **Weekly development breakdown**
+**Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Other        5 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   39.11 % 
@@ -42,7 +42,6 @@ JSON         29 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<br>
 **See My Blogs**
 <br>
 <!-- BLOG-POST-LIST:START -->
