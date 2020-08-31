@@ -33,9 +33,10 @@ How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha12
 <br>
 <!-- BLOG-POST-LIST:START -->
 - [Be a Flamingo In a Flock of Pigeons](https://medium.com/@sonukumarkushwaha/be-a-flamingo-in-a-flock-of-pigeons-691642409263?source=rss-93f249b41b22------2)
-- [See the flower,how generously it distributes perfume and honney .](https://medium.com/@sonukumarkushwaha/see-the-flower-how-generously-it-distributes-perfume-and-honney-18a8f85fbf96?source=rss-93f249b41b22------2)
+- [Mohandas Karamchand Gandhi @150](https://medium.com/@sonukumarkushwaha/mohandas-karamchand-gandhi-150-aa7784d69b7d?source=rss-93f249b41b22------2)
 - [Mother gives the principle of truth](https://medium.com/@sonukumarkushwaha/mother-gives-the-principle-of-truth-d7a2a11044ba?source=rss-93f249b41b22------2)
-
+- [Celebrating Diwali](https://medium.com/@sonukumarkushwaha/celebrating-diwali-3e944fe7fd02?source=rss-93f249b41b22------2)
+- [History of Cricket](https://medium.com/@sonukumarkushwaha/history-of-cricket-c149ef4c503a?source=rss-93f249b41b22------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
