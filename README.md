@@ -19,16 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&hide_border=true)
 ---
--->
 
-### Hi there 👋
-	
-**Glad to see you here!** :star_struck: <br><br> 
-I love to learn and contribute in any and every possible way. 
-The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
-<br>
-How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
-<br>
 
 
 **Weekly development breakdown**
@@ -53,6 +44,18 @@ JSON         29 mins         █░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
+
+-->
+
+### Hi there 👋
+	
+**Glad to see you here!** :star_struck: <br><br> 
+I love to learn and contribute in any and every possible way. 
+The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
+<br>
+How to reach me: [https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
+<br>
+
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 <br>
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html%22%20alt=%22flyingsonu122" /></p>
