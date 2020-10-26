@@ -9,7 +9,7 @@ How to reach me: [https://linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu )
 
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 <br>
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide=html%22%20alt=%22flyingsonu122" /></p>
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&&langs_count=10&layout=compact&hide=html%22%20alt=%22flyingsonu122" /></p>
 
 
 <br><br>
