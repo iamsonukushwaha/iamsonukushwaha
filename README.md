@@ -12,13 +12,6 @@ How to reach me: [https://linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu )
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&&langs_count=10&layout=compact&hide=html%22%20alt=%22flyingsonu122" /></p>
 <br>
 
-**Contribution Streak**
-
-<a href="https://github.com/flyingsonu122">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsonu122" alt="flyingsonu122"/>
-</a>
-
-
 
 
 <br><br>
