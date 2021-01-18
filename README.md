@@ -5,8 +5,11 @@
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
+
 How to reach me: [https://linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu )
+
 <br>
+
 
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 <br>
@@ -26,7 +29,7 @@ How to reach me: [https://linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu )
 	
 	
 </p>
-<br>
 
+<br>
 <br>
 
