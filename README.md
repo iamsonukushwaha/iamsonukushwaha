@@ -6,7 +6,8 @@ I love to learn and contribute in any and every possible way.
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
 <br>
 
-How to reach me: [https://linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu )
+
+How to reach me: [linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
 
