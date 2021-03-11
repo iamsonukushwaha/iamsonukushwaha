@@ -34,5 +34,8 @@ How to reach me: [linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu)
 </p>
 
 <br>
+<p align="center">
+<img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px">
+</p>
 <br>
 
