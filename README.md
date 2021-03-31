@@ -19,7 +19,7 @@ How to reach me: [linktr.ee/flyingsonu ](https://linktr.ee/flyingsonu)
 
 <br>
 
-The VS Code theme I [use](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
+The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
 
 
 
