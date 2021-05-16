@@ -11,7 +11,9 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br/><br/>
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
 
+<br>
 
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 
