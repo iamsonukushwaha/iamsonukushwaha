@@ -22,7 +22,6 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
 
 
-
 <br><br>
 
 <p align="center"> Let's have a chat on </p> 
