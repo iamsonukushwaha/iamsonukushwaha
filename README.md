@@ -1,4 +1,4 @@
-### Hi there I am [Sonu](https://sonukushwaha.live)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 	
 **Glad to see you here!** :star_struck: <br><br> 
