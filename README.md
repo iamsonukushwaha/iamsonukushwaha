@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 	
-**Glad to see you here!** :star_struck: <br><br> 
+**Glad to see you here!** :star_struck: <br>
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
@@ -9,7 +9,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
-<br/><br/>
+<br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
 
@@ -21,6 +21,9 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
 
+<br>
+
+Do you want a **domain name for free?**  [get one here](https://github.com/singlebucks/get_free_domain)
 
 <br><br>
 
