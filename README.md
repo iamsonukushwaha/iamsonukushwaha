@@ -11,7 +11,8 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br/>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122)
+
 
 <br>
 
@@ -29,9 +30,7 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
 
-<br>
-
-Get a **[domain name for free?](https://github.com/singlebucks/get_free_domain)**
+Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
 
 <br><br>
 
