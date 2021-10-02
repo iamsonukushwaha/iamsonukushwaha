@@ -11,14 +11,14 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br/>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122)
 
 <br>
 
-| Serial No. | Repository | Issues | Pull Requests | Forks | 
-|:--|:--|:--|:--|:--| 
-| 1. | [links-list](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
-| 2. | [JSON](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
+| Project | Issues | Pull Requests | Forks | 
+|:--|:--|:--|:--|
+| [**links-list**](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
+| [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
 
 
 <br>
