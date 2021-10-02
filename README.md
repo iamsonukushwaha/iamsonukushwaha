@@ -5,6 +5,7 @@
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
+
 <br/>
 
 How to reach me: [sonu.live/links](https://www.sonu.live/links/)
@@ -20,7 +21,7 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 |:--|:--|:--|:--|
 | [**links-list**](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
 | [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
-
+| [**get_free_domain**](https://github.com/singlebucks/get_free_domain) | [![GitHub issues](https://img.shields.io/github/issues/singlebucks/get_free_domain?color=red&logo=github&style=flat-square)](https://github.com/singlebucks/get_free_domain/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/singlebucks/get_free_domain?style=social&logo=github)](https://github.com/singlebucks/get_free_domain/pulls) | [![GitHub forks](https://img.shields.io/github/forks/singlebucks/get_free_domain?style=flat-square&logo=git)](https://github.com/singlebucks/get_free_domain/network) |
 
 <br>
 
@@ -30,7 +31,6 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
 
-Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
 
 <br><br>
 
