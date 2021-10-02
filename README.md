@@ -15,6 +15,14 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br>
 
+| Serial No. | Repository | Issues | Pull Requests | Forks | 
+|:--|:--|:--|:--|:--| 
+| 1. | [links-list](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
+| 2. | [JSON](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
+
+
+<br>
+
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
 
 <br>
@@ -23,7 +31,7 @@ The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?
 
 <br>
 
-Do you want a **domain name for free?**  [get one here](https://github.com/singlebucks/get_free_domain)
+Get a **[domain name for free?](https://github.com/singlebucks/get_free_domain)**
 
 <br><br>
 
