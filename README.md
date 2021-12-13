@@ -53,7 +53,7 @@ The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?
 
 <br>
 <p align="center">
-<a href="https://github.com/flyingsonu122"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="https://youtube.com/playlist?list=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
 <br>
 
