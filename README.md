@@ -15,7 +15,7 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122)
 
 
-<br>
+<br/>
 
 | Project | Issues | Pull Requests | Forks | 
 |:--|:--|:--|:--|
@@ -23,18 +23,12 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 | [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
 | [**get_free_domain**](https://github.com/singlebucks/get_free_domain) | [![GitHub issues](https://img.shields.io/github/issues/singlebucks/get_free_domain?color=red&logo=github&style=flat-square)](https://github.com/singlebucks/get_free_domain/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/singlebucks/get_free_domain?style=social&logo=github)](https://github.com/singlebucks/get_free_domain/pulls) | [![GitHub forks](https://img.shields.io/github/forks/singlebucks/get_free_domain?style=flat-square&logo=git)](https://github.com/singlebucks/get_free_domain/network) |
 
-<br>
+<br/>
 
-<p ><img  src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true" alt="flyingsonu122"  /></p>
+| <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a> |  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> |
+| --- | --- |
 
-<br>
-
-
-
-
-The VS Code theme I [made and using](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
-
-<br><br>
+<br/>
 
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
