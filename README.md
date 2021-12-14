@@ -33,10 +33,9 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 #### VS Code Extensions
 
-| <a href="https://github.com/flyingsonu122/search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
-</a> | <a href="https://github.com/flyingsonu122/flyingsonu-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
-</a> |
-| --- | --- |
+<a href="https://github.com/flyingsonu122/search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
+</a>  <a href="https://github.com/flyingsonu122/flyingsonu-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
+</a> 
 
 <br />
 <br />
