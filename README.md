@@ -25,10 +25,21 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br/>
 
-| <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a> |  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> |
+| <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true&hide_border=true" alt="Sonu's github stats" /></a> |  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide_border=true" alt="flyingsonu122" /></a> |
 | --- | --- |
 
+
 <br/>
+
+#### VS Code Extensions
+
+| <a href="https://github.com/flyingsonu122/search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
+</a> | <a href="https://github.com/flyingsonu122/flyingsonu-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
+</a> |
+| --- | --- |
+
+<br />
+<br />
 
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
