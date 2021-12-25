@@ -17,13 +17,13 @@ How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
 <br/>
 
-| Project | Issues | Pull Requests | Forks | 
+<!-- | Project | Issues | Pull Requests | Forks | 
 |:--|:--|:--|:--|
 | [**links-list**](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
 | [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
 | [**get_free_domain**](https://github.com/singlebucks/get_free_domain) | [![GitHub issues](https://img.shields.io/github/issues/singlebucks/get_free_domain?color=red&logo=github&style=flat-square)](https://github.com/singlebucks/get_free_domain/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/singlebucks/get_free_domain?style=social&logo=github)](https://github.com/singlebucks/get_free_domain/pulls) | [![GitHub forks](https://img.shields.io/github/forks/singlebucks/get_free_domain?style=flat-square&logo=git)](https://github.com/singlebucks/get_free_domain/network) |
 
-<br/>
+<br/> -->
 
 | <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true&hide_border=true" alt="Sonu's github stats" /></a> |  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact&hide_border=true" alt="flyingsonu122" /></a> |
 | --- | --- |
