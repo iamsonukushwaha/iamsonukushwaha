@@ -10,6 +10,8 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 How to reach me: [sonu.live/links](https://www.sonu.live/links/)
 
+**Download [Singlebucks Browser](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe)**
+
 <br/>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122)
