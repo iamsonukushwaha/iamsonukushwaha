@@ -14,7 +14,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 
 
-**Download [Singlebucks Browser](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe)**
+**Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
 
 <br/>
 
@@ -68,5 +68,9 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 </p>
 <br>
 
+<!--
+
 <a href="https://www.buymeacoffee.com/Sonukumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+-->
 
