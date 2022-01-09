@@ -39,7 +39,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-### VS Code Extensions Made by Me
+### VS Code Extensions made by me
 
 <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
 </a> 
@@ -48,7 +48,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br /><br />
 
-### NPM packages Made by Me
+### NPM packages made by me
 
 [![numbers-game](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
 [![sonukushwaha](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
