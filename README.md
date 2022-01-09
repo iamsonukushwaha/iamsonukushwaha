@@ -65,7 +65,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://www.singlebucks.live/"><img src="https://img.shields.io/badge/Blogger--_.svg?style=social&logo=blogger" alt="Blogger"></a>
 	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
-	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Friends on Twitter&style=social" alt="Twitter"></a>
 	
 	
 </p>
@@ -76,9 +76,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 </p>
 <br>
 
-<!--
 
 <a href="https://www.buymeacoffee.com/Sonukumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
--->
 
