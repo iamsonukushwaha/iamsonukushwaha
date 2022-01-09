@@ -41,8 +41,8 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 ### VS Code Extensions Made by Me
 
-<a href="https://github.com/flyingsonu122/search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
-</a>  <a href="https://github.com/flyingsonu122/flyingsonu-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
+<a href="https://marketplace.visualstudio.com/items?itemName=SonuKumarKushwaha.search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
+</a>  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
 </a> 
 
 <br /><br />
