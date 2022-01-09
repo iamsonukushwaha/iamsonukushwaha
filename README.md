@@ -39,14 +39,21 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-#### VS Code Extensions
+### VS Code Extensions Made by Me
 
 <a href="https://github.com/flyingsonu122/search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
 </a>  <a href="https://github.com/flyingsonu122/flyingsonu-theme"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
 </a> 
 
-<br />
-<br />
+<br /><br />
+
+### NPM packages Made by Me
+
+[![numbers-game](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
+[![sonukushwaha](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
+
+
+<br /><br /><br /><br />
 
 <h5 align="center"> Let's have a chat on </h5> 
 <p align="center">
