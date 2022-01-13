@@ -76,7 +76,9 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 </p>
 <br>
 
+<!--
+
 ### Support:
 <a href="https://www.buymeacoffee.com/Sonukumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-
+-->
