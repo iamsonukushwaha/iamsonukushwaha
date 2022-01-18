@@ -72,7 +72,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br>
 <p align="center">
-<a href="https://youtube.com/playlist?list=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="https://www.singlebucks.live/"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
 <br>
 
