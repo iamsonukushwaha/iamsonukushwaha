@@ -38,7 +38,8 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 
 
-<a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> <a href="https://metrics.lecoq.io/about/flyingsonu122"><img align="center" src="https://metrics.lecoq.io/flyingsonu122" alt="flyingsonu122" /></a> 
+<a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> <a href="https://metrics.lecoq.io/about/flyingsonu122"><img align="center" src="https://metrics.lecoq.io/flyingsonu122?template=classic&isocalendar=1&tweets=1&isocalendar.duration=half-year&tweets.attachments=false&tweets.limit=3&tweets.user=sonukumarkush12&config.timezone=Asia%2FCalcutta" alt="flyingsonu122" /></a> 
+
 
 
 
