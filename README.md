@@ -8,11 +8,9 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-[sonu.live/links](https://www.sonu.live/links/)
+**[sonu.live/links](https://www.sonu.live/links/)**
 			
 **[bio.link/sonu](https://bio.link/sonu)**
-
-
 
 **Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
 
