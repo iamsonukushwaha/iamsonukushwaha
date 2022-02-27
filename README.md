@@ -8,11 +8,15 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
+<!--
+
 **[sonu.live/links](https://www.sonu.live/links/)**
 			
 **[bio.link/sonu](https://bio.link/sonu)**
 
 **Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
+
+-->
 
 
 
@@ -25,14 +29,6 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 
 <br/>
-
-<!-- | Project | Issues | Pull Requests | Forks | 
-|:--|:--|:--|:--|
-| [**links-list**](https://github.com/flyingsonu122/links-list) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/links-list?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/links-list/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/links-list?style=social&logo=github)](https://github.com/flyingsonu122/links-list/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/links-list?style=flat-square&logo=git)](https://github.com/flyingsonu122/links-list/network) |
-| [**JSON**](https://github.com/flyingsonu122/JSON) | [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON?color=red&logo=github&style=flat-square)](https://github.com/flyingsonu122/JSON/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/flyingsonu122/JSON?style=social&logo=github)](https://github.com/flyingsonu122/JSON/pulls) | [![GitHub forks](https://img.shields.io/github/forks/flyingsonu122/JSON?style=flat-square&logo=git)](https://github.com/flyingsonu122/JSON/network) |
-| [**get_free_domain**](https://github.com/singlebucks/get_free_domain) | [![GitHub issues](https://img.shields.io/github/issues/singlebucks/get_free_domain?color=red&logo=github&style=flat-square)](https://github.com/singlebucks/get_free_domain/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/singlebucks/get_free_domain?style=social&logo=github)](https://github.com/singlebucks/get_free_domain/pulls) | [![GitHub forks](https://img.shields.io/github/forks/singlebucks/get_free_domain?style=flat-square&logo=git)](https://github.com/singlebucks/get_free_domain/network) |
-
-<br/> -->
 
 
 
@@ -74,10 +70,3 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <a href="https://www.singlebucks.live/"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
 <br>
-
-<!--
-
-### Support:
-<a href="https://www.buymeacoffee.com/Sonukumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
--->
