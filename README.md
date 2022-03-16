@@ -1,5 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
+
+<!--
 	
 **Glad to see you here!** :star_struck: <br>
 
@@ -8,7 +10,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-<!--
+
 
 **[sonu.live/links](https://www.sonu.live/links/)**
 			
