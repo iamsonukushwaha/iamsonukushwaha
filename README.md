@@ -1,11 +1,17 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+###  Hi
+
+**Glad to see you here!** :star_struck: 
 <br/>
 
 
 **[sonu.rocks](https://www.sonu.rocks/)**
 <!--
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 	
-**Glad to see you here!** :star_struck: <br>
+
+### Hi there! 
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
