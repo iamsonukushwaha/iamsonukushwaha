@@ -16,13 +16,13 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://github.com/flyingsonu122)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://flyingsonu122.github.io/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://flyingsonu122.github.io/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://flyingsonu122.github.io/)
 
 
 <br/>
 
 
-<a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> 
+<a href="https://flyingsonu122.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://flyingsonu122.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> 
 
 
 [Find more activities here](https://metrics.lecoq.io/about/flyingsonu122)
