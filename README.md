@@ -1,16 +1,4 @@
 
-###  Hi
-
-**Glad to see you here!** :star_struck: 
-<br/>
-
-
-**[sonu.rocks](https://www.sonu.rocks/)**
-<!--
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-	
-
 ### Hi there! 
 
 I love to learn and contribute in any and every possible way. 
@@ -19,16 +7,9 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-
-
-			
-**[bio.link/sonu](https://bio.link/sonu)**
+**[sonu.rocks](https://www.sonu.rocks/)**
 
 **Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
-
-
-
-
 
 **Download [New Year Countdown extenstion](https://microsoftedge.microsoft.com/addons/detail/newyearcountdown/iedljabnpnfldfkbijplkoiodnbbdnkn)**
 
@@ -39,7 +20,6 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 
 <br/>
-
 
 
 <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://github.com/flyingsonu122"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> 
@@ -63,10 +43,15 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 [![numbers-game](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
 [![sonukushwaha](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
 
--->
+<br><br>
 
-<a href="https://flyingsonu122.github.io"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
+<h5 align="center"> Let's have a chat on </h5> 
+<p align="center">
+	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://flyingsonu122.github.io"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
+	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.youtube.com/channel/UCLSsTx4FVQMiNuuUbwFM7QA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
+	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/iamsonukushwaha?label=Friends on Twitter&style=social" alt="Twitter"></a>
+</p>
 
-
-<br>
-<br>
+<br><br>
