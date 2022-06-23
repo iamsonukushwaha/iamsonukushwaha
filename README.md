@@ -7,7 +7,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-**[sonu.rocks](https://www.sonu.rocks/)**
+**[Resume](https://www.sonu.rocks/resume.pdf)**
 
 **Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
 
