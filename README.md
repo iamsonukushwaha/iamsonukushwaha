@@ -9,7 +9,6 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 **[Resume](https://www.sonu.rocks/resume.pdf)**
 
-**Download [Singlebucks](https://github.com/flyingsonu122/resources/releases/download/v1.0/Singlebucks.exe) [Browser](https://youtu.be/YQzzcCeRjVo)**
 
 **Download [New Year Countdown extenstion](https://microsoftedge.microsoft.com/addons/detail/newyearcountdown/iedljabnpnfldfkbijplkoiodnbbdnkn)**
 
