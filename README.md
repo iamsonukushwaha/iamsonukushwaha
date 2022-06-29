@@ -1,5 +1,6 @@
-
-### Hi there! 
+<h1 align="left">
+  Hi there! 
+</h1>
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
@@ -20,8 +21,16 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
+### 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyingsonu122&theme=vue"/>
+</p>
 
-<a href="https://flyingsonu122.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&include_all_commits=true" alt="Sonu's github stats" /></a>  <a href="https://flyingsonu122.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsonu122&layout=compact" alt="flyingsonu122" /></a> 
+### 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsonu122&theme=vue" />
+</p>
 
 
 [Find more activities here](https://metrics.lecoq.io/about/flyingsonu122)
