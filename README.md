@@ -8,7 +8,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-**[Sonu's Resume](https://www.sonu.rocks/resume.pdf)**
+**[Sonu's Resume](https://sonu.rocks/resume.pdf)**
 
 <br/>
 
