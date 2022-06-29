@@ -8,7 +8,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-**[Resume](https://www.sonu.rocks/resume.pdf)**
+**[Sonu's Resume](https://www.sonu.rocks/resume.pdf)**
 
 
 **Download [New Year Countdown extenstion](https://microsoftedge.microsoft.com/addons/detail/newyearcountdown/iedljabnpnfldfkbijplkoiodnbbdnkn)**
@@ -23,13 +23,13 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 ### 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyingsonu122&theme=vue"/>
+  <a href="https://flyingsonu122.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyingsonu122&theme=vue"/></a>
 </p>
 
 ### 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsonu122&theme=vue" />
+	<a href="https://flyingsonu122.github.io"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsonu122&theme=vue" /></a>
 </p>
 
 
