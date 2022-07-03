@@ -35,11 +35,12 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 ### VS Code Extensions made by me
 
-<a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
 </a> 
-<a href="https://marketplace.visualstudio.com/items?itemName=SonuKumarKushwaha.search-sonu-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
+<a href="https://marketplace.visualstudio.com/items?itemName=SonuKumarKushwaha.search-sonu-blog"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
 </a> 
-
+</p>
 <br /><br />
 
 ### NPM packages made by me
