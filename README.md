@@ -8,7 +8,7 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-**[youtube.com/@sonukushwaha736](https://youtube.com/@sonukushwaha736)**
+**[https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)**
 
 [Sonu's Resume](https://github.com/flyingsonu122/resume/blob/latest/resume.pdf)
 
