@@ -8,13 +8,15 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 <br/>
 
 
-**[Sonu's Resume](https://github.com/flyingsonu122/resume/blob/latest/resume.pdf)**
+**[youtube.com/@sonukushwaha736](https://youtube.com/@sonukushwaha736)**
+
+[Sonu's Resume](https://github.com/flyingsonu122/resume/blob/latest/resume.pdf)
 
 
-**[sonukushwaha.me](https://sonukushwaha.me)**
+[sonukushwaha.me](https://sonukushwaha.me)
 
 
-**[sonu.rocks](https://sonu.rocks)**
+[sonu.rocks](https://sonu.rocks)
 
 
 <br/>
