@@ -1,22 +1,26 @@
-<h1 align="left">
-  Hi there! 
-</h1>
 
-I love to learn and contribute in any and every possible way. 
-The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=repositories) represent my journey :running_man: 
+![image](https://user-images.githubusercontent.com/51280276/209465820-a723e4f0-a53a-4d9c-bad0-3b5d2a2176ab.png)
+
 
 <br/>
 
 
+**[https://sonukushwaha.com](https://sonukushwaha.com/)**
+
+<br>
+
+
 **[https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)**
 
-[Sonu's Resume](https://github.com/flyingsonu122/resume/blob/latest/resume.pdf)
+[Sonu's Resume](https://sonukushwaha.com/resume.pdf)
 
 
 [sonukushwaha.me](https://sonukushwaha.me)
 
 
 [sonu.rocks](https://sonu.rocks)
+
+
 
 
 <br/>
