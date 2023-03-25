@@ -56,6 +56,10 @@
 [![numbers-game](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
 [![sonukushwaha](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
 
+
+
+**[See Browser Extensions Created by me](https://microsoftedge.microsoft.com/addons/search?developer=singlebucks)**
+
 <br><br>
 
 <h5 align="center"> Let's have a chat on </h5> 
