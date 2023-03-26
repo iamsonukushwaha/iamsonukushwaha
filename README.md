@@ -10,8 +10,6 @@
 <br>
 
 
-**[https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)**
-
 [Sonu's Resume](https://sonukushwaha.com/resume.pdf)
 
 
