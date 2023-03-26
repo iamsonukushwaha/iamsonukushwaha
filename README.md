@@ -5,7 +5,7 @@
 <br/>
 
 
-**[https://sonukushwaha.com](https://sonukushwaha.com/)**
+**[sonukushwaha.com](https://sonukushwaha.com/)**
 
 <br>
 
