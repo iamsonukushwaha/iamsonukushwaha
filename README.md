@@ -13,7 +13,6 @@
 [Sonu's Resume](https://sonukushwaha.com/resume.pdf)
 
 
-[sonukushwaha.me](https://sonukushwaha.me)
 
 
 <br/>
