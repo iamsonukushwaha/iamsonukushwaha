@@ -5,13 +5,6 @@
 <br/>
 
 
-**[sonukushwaha.com](https://sonukushwaha.com/)**
-
-<br>
-
-
-[Sonu's Resume](https://sonukushwaha.com/resume.pdf)
-
 
 
 
