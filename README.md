@@ -51,7 +51,12 @@ https://sonukushwaha.com
 
 <br><br>
 
-Play Lofi Songs  [tunemate.netlify.app](https://tunemate.netlify.app)
+<!-- Play Lofi Songs  [tunemate.netlify.app](https://tunemate.netlify.app) -->
+
+
+Play Lofi Songs  [songs.sonukushwaha.com](https://songs.sonukushwaha.com)
+
+
 
 <br><br>
 
