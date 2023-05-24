@@ -7,6 +7,35 @@
 **https://sonukushwaha.com**
 
 
+<code>curl -O https://sonukushwaha.com/resume.pdf</code>
+<br><br><br>
+
+
+https://certificates.sonukushwaha.com
+
+<br>
+
+https://about.sonukushwaha.com
+
+<br>
+
+https://links.sonukushwaha.com
+
+<br>
+
+https://blog.sonukushwaha.com
+
+<br>
+
+https://songs.sonukushwaha.com
+
+<br>
+
+https://tarana.sonukushwaha.com
+
+<br><br>
+
+
 
 <br/>
 
