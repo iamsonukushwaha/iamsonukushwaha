@@ -78,13 +78,7 @@ https://tarana.sonukushwaha.com
 
 **[See Browser Extensions Created by me](https://microsoftedge.microsoft.com/addons/search?developer=singlebucks)**
 
-<br><br>
-
-<!-- Play Lofi Songs  [tunemate.netlify.app](https://tunemate.netlify.app) -->
-
-
-Listen 300+ Lofi Songs  [songs.sonukushwaha.com](https://songs.sonukushwaha.com)
-
+<br>
 
 
 <br><br>
