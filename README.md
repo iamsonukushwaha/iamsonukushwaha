@@ -39,13 +39,9 @@ https://tarana.sonukushwaha.com
 
 <br><br>
 
-<code>
+<code>npm i sonukushwaha</code>
 
-npm i sonukushwaha
-
-npx sonukushwaha
-	
-</code>
+<code>npx sonukushwaha</code>
 
 <br/>
 
