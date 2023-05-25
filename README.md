@@ -6,8 +6,12 @@
 
 **https://sonukushwaha.com**
 
+<br/>
 
 <code>curl -O https://sonukushwaha.com/resume.pdf</code>
+
+
+
 <br><br><br>
 
 
@@ -35,7 +39,13 @@ https://tarana.sonukushwaha.com
 
 <br><br>
 
+<code>
 
+npm i sonukushwaha
+
+npx sonukushwaha
+	
+</code>
 
 <br/>
 
