@@ -14,7 +14,6 @@
 
 <br><br><br>
 
-
 https://certificates.sonukushwaha.com
 
 <br>
@@ -31,13 +30,6 @@ https://blog.sonukushwaha.com
 
 <br>
 
-https://songs.sonukushwaha.com
-
-<br>
-
-https://tarana.sonukushwaha.com
-
-<br><br>
 
 <code>npm i sonukushwaha</code>
 
