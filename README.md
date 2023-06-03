@@ -37,8 +37,6 @@ https://blog.sonukushwaha.com
 
 <br/>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://flyingsonu122.github.io/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://flyingsonu122.github.io/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://flyingsonu122.github.io/)
-
 
 <br/>
 
