@@ -18,14 +18,6 @@ https://certificates.sonukushwaha.com
 
 <br>
 
-https://about.sonukushwaha.com
-
-<br>
-
-https://links.sonukushwaha.com
-
-<br>
-
 https://blog.sonukushwaha.com
 
 <br>
