@@ -8,6 +8,7 @@
 
 <br/>
 
+open your terminal and type: 
 <code>curl -O https://sonukushwaha.com/resume.pdf</code>
 
 
@@ -23,8 +24,7 @@ https://blog.sonukushwaha.com
 <br>
 
 
-<code>npm i sonukushwaha</code>
-
+open your terminal and type: 
 <code>npx sonukushwaha</code>
 
 <br/>
