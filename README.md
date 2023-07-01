@@ -13,10 +13,6 @@ open your terminal and type:
 
 
 
-<br><br><br>
-
-https://certificates.sonukushwaha.com
-
 <br>
 
 https://blog.sonukushwaha.com
