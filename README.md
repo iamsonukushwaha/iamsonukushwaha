@@ -7,18 +7,19 @@
 
 <br/><br/><br/>
 
-**https://blog.sonukushwaha.com**
+**https://sonukushwaha.com**
 
 <br/>
 
+
+**https://blog.sonukushwaha.com**
+
+<br><br>
 open your terminal and type: 
 <code>curl -O https://sonukushwaha.com/resume.pdf</code>
 
 
 
-<br>
-
-https://blog.sonukushwaha.com
 
 <br>
 
