@@ -15,7 +15,7 @@
 **https://blog.sonukushwaha.com**
 
 <br><br>
-open your terminal and type: 
+Go to your terminal and type: 
 <code>curl -O https://sonukushwaha.com/resume.pdf</code>
 
 
@@ -24,7 +24,7 @@ open your terminal and type:
 <br>
 
 
-open your terminal and type: 
+Go to your terminal and type: 
 <code>npx sonukushwaha</code>
 
 <br/>
