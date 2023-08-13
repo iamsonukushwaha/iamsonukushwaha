@@ -16,7 +16,7 @@
 
 <br><br>
 Go to your terminal and type: 
-<code>curl -O https://sonukushwaha.com/resume.pdf</code>
+<code>curl -O https://sonukushwaha.com/resume.pdf && resume.pdf</code>
 
 
 
