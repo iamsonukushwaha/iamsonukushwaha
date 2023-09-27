@@ -14,6 +14,8 @@
 
 **https://blog.sonukushwaha.com**
 
+https://portfolio.sonukushwaha.com
+
 <br><br>
 Go to your terminal and type: 
 <code>curl -O https://sonukushwaha.com/resume.pdf && resume.pdf</code>
