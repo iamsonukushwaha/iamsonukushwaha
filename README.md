@@ -12,9 +12,7 @@
 <br/>
 
 
-**https://blog.sonukushwaha.com**
-
-https://portfolio.sonukushwaha.com
+**https://portfolio.sonukushwaha.com**
 
 <br><br>
 Go to your terminal and type: 
