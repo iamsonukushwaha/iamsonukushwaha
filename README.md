@@ -13,15 +13,9 @@
 [blog.sonukushwaha.com](https://blog.sonukushwaha.com)
 <br>
 <br>
-[songs.sonukushwaha.com](https://songs.sonukushwaha.com)
-<br>
-<br>
 [resume.sonukushwaha.com](https://resume.sonukushwaha.com)
 <br><br>
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
-<br>
-<br>
-[tarana.sonukushwaha.com](https://tarana.sonukushwaha.com)
 <br>
 <br>
 [photos.sonukushwaha.com](https://photos.sonukushwaha.com)
