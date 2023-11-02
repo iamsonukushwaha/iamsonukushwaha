@@ -3,24 +3,48 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51280276/259658473-fa5613c8-a716-4102-be9a-b46e241be13a.png" alt="Sonu">
 </a>
 
+```
+I am NOT a designer. Or photographer. Or artist.
 
+I am a Developer. Anti-social. Nerdy.
+```
 
-<br/><br/><br/>
-
-**https://sonukushwaha.com**
-
-<br/>
-
-
-**https://portfolio.sonukushwaha.com**
 
 <br><br>
+https://sonukushwaha.com
+<br>
+<br>
+https://blog.sonukushwaha.com
+<br>
+<br>
+https://songs.sonukushwaha.com
+<br>
+<br>
+https://resume.sonukushwaha.com
+<br><br>
+
+https://portfolio.sonukushwaha.com
+<br>
+<br>
+https://tarana.sonukushwaha.com
+<br>
+<br>
+https://photos.sonukushwaha.com
+<br>
+<br>
+https://certificates.sonukushwaha.com
+<br>
+<br>
+https://links.sonukushwaha.com
+<br>
+<br>
+
+
+
 Go to your terminal and type: 
 <code>curl -O https://sonukushwaha.com/resume.pdf && resume.pdf</code>
 
-
-
-
+<br>
 <br>
 
 
@@ -28,8 +52,6 @@ Go to your terminal and type:
 <code>npx sonukushwaha</code>
 
 <br/>
-
-
 <br/>
 
 <p align="center">
