@@ -27,8 +27,12 @@
 [links.sonukushwaha.com](https://links.sonukushwaha.com)
 <br>
 <br>
-
-
+[tarana.sonukushwaha.com](https://tarana.sonukushwaha.com)
+<br>
+<br>
+[songs.sonukushwaha.com](https://songs.sonukushwaha.com)
+<br>
+<br>
 
 Go to your terminal and type: 
 ```
