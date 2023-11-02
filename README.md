@@ -6,7 +6,6 @@
 ```
 I am NOT a designer. Or photographer. Or artist.
 
-I am a Developer. Anti-social. Nerdy.
 ```
 
 
@@ -22,7 +21,6 @@ https://songs.sonukushwaha.com
 <br>
 https://resume.sonukushwaha.com
 <br><br>
-
 https://portfolio.sonukushwaha.com
 <br>
 <br>
