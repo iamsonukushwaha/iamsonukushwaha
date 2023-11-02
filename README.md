@@ -96,4 +96,11 @@ npx sonukushwaha
 	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122?label=Github&style=social" alt="Github"></a>
 </p>
 
-<br><br>
+<br>
+<br>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=0VxMA4OwBJY&list=PLPTNm43hfM6GMumQgq0IQC2z4nnb55GVD"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+</p>
+
+<br>
+<br>
