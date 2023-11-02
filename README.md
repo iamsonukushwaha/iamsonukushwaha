@@ -7,30 +7,30 @@
 
 
 <br><br>
-https://sonukushwaha.com
+[www.sonukushwaha.com](https://sonukushwaha.com)
 <br>
 <br>
-https://blog.sonukushwaha.com
+[blog.sonukushwaha.com](https://blog.sonukushwaha.com)
 <br>
 <br>
-https://songs.sonukushwaha.com
+[songs.sonukushwaha.com](https://songs.sonukushwaha.com)
 <br>
 <br>
-https://resume.sonukushwaha.com
+[resume.sonukushwaha.com](https://resume.sonukushwaha.com)
 <br><br>
-https://portfolio.sonukushwaha.com
+[portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
 <br>
 <br>
-https://tarana.sonukushwaha.com
+[tarana.sonukushwaha.com](https://tarana.sonukushwaha.com)
 <br>
 <br>
-https://photos.sonukushwaha.com
+[photos.sonukushwaha.com](https://photos.sonukushwaha.com)
 <br>
 <br>
-https://certificates.sonukushwaha.com
+[certificates.sonukushwaha.com](https://certificates.sonukushwaha.com)
 <br>
 <br>
-https://links.sonukushwaha.com
+[links.sonukushwaha.com](https://links.sonukushwaha.com)
 <br>
 <br>
 
