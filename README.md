@@ -37,14 +37,19 @@
 
 
 Go to your terminal and type: 
-<code>curl -O https://sonukushwaha.com/resume.pdf && resume.pdf</code>
+```
+curl -O https://sonukushwaha.com/resume.pdf && resume.pdf
+```
 
 <br>
 <br>
 
 
 Go to your terminal and type: 
-<code>npx sonukushwaha</code>
+```
+npx sonukushwaha
+```
+
 
 <br/>
 <br/>
