@@ -24,9 +24,6 @@
 [certificates.sonukushwaha.com](https://certificates.sonukushwaha.com)
 <br>
 <br>
-[links.sonukushwaha.com](https://links.sonukushwaha.com)
-<br>
-<br>
 [tarana.sonukushwaha.com](https://tarana.sonukushwaha.com)
 <br>
 <br>
