@@ -31,6 +31,8 @@
 <br>
 <br>
 
+
+
 Go to your terminal and type: 
 ```
 curl -O https://sonukushwaha.com/resume.pdf && resume.pdf
@@ -64,7 +66,7 @@ npx sonukushwaha
 
 <br/>
 
-### VS Code Extensions made by me
+### VS Code Extensions 
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
@@ -74,7 +76,7 @@ npx sonukushwaha
 </p>
 <br /><br />
 
-### NPM packages made by me
+### NPM packages 
 
 [![numbers-game](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
 [![sonukushwaha](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
