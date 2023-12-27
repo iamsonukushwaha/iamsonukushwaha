@@ -48,26 +48,26 @@ npx sonukushwaha
 <br/>
 
 <p align="center">
-  <a href="https://flyingsonu122.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyingsonu122&theme=vue"/></a>
+  <a href="https://iamsonukushwaha.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
 </p>
 
 
 <p align="center">
-	<a href="https://flyingsonu122.github.io"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=flyingsonu122&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsonu122&theme=vue" /></a>
+	<a href="https://iamsonukushwaha.github.io"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsonukushwaha&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsonukushwaha&theme=vue" /></a>
 </p>
 
 
-[Find more activities here](https://metrics.lecoq.io/about/flyingsonu122)
+[Find more activities here](https://metrics.lecoq.io/about/iamsonukushwaha)
 
 <br/>
 
 ### VS Code Extensions 
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=flyingsonu-theme&theme=buefy" />
+<a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iamsonukushwaha&repo=flyingsonu-theme&theme=buefy" />
 </a> 
-<a href="https://marketplace.visualstudio.com/items?itemName=SonuKumarKushwaha.search-sonu-blog"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=flyingsonu122&repo=search-sonu-blog&theme=buefy" />
+<a href="https://marketplace.visualstudio.com/items?itemName=SonuKumarKushwaha.search-sonu-blog"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iamsonukushwaha&repo=search-sonu-blog&theme=buefy" />
 </a> 
 </p>
 <br /><br />
