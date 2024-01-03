@@ -3,13 +3,8 @@
 
 
 <br><br>
-**[www.sonukushwaha.com](https://sonukushwaha.com)**
-<br>
-<br>
+
 [blog.sonukushwaha.com](https://blog.sonukushwaha.com)
-<br>
-<br>
-[resume.sonukushwaha.com](https://resume.sonukushwaha.com)
 <br><br>
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
 <br>
