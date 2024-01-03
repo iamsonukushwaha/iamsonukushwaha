@@ -19,9 +19,7 @@
 <br>
 [certificates.sonukushwaha.com](https://certificates.sonukushwaha.com)
 <br>
-<br>
-[tarana.sonukushwaha.com](https://tarana.sonukushwaha.com)
-<br>
+
 <br>
 [songs.sonukushwaha.com](https://songs.sonukushwaha.com)
 <br>
