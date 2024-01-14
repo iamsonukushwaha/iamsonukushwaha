@@ -9,15 +9,7 @@
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
 <br>
 <br>
-[photos.sonukushwaha.com](https://photos.sonukushwaha.com)
-<br>
-<br>
-[certificates.sonukushwaha.com](https://certificates.sonukushwaha.com)
-<br>
-<br>
-[songs.sonukushwaha.com](https://songs.sonukushwaha.com)
-<br>
-<br>
+
 
 
 
