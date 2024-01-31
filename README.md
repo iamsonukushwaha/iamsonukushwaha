@@ -1,11 +1,5 @@
 
 
-
-
-<br><br>
-
-[blog.sonukushwaha.com](https://blog.sonukushwaha.com)
-<br><br>
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
 <br>
 <br>
