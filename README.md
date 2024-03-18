@@ -47,13 +47,13 @@ npx sonukushwaha
 
 
 <p align="center">
-  <a href="https://iamsonukushwaha.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
 </p>
 
 <!-- 
 
 <p align="center">
-	<a href="https://iamsonukushwaha.github.io"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsonukushwaha&show_icons=true&theme=vue" />
+	<a href="https://sonukushwaha.com/resume.pdf"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsonukushwaha&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsonukushwaha&theme=vue" /></a>
 </p>
 
