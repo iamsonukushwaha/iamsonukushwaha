@@ -1,7 +1,8 @@
 
 <br>
 
-![image](https://github.com/iamsonukushwaha/iamsonukushwaha/assets/51280276/a6706a6e-9b8b-4851-a79f-9e37e3c91ac0)
+![image](https://github.com/iamsonukushwaha/iamsonukushwaha/assets/51280276/dde456e7-35ae-4572-8787-4ab3dd1c832b)
+
 
 
 <br>
