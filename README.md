@@ -93,6 +93,12 @@ npx sonukushwaha
 </p>
 
 <br>
+
+<p align="center">
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github.com/iamsonukushwaha/q1/blob/main/screenshot.png"/></a>
+</p>
+
+
 <br>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=0VxMA4OwBJY&list=PLPTNm43hfM6GMumQgq0IQC2z4nnb55GVD"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
