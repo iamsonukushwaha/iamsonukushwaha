@@ -95,7 +95,7 @@ npx sonukushwaha
 <br>
 
 <p align="center">
-  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://sonuqt.netlify.app/screenshot.png"/></a>
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://sonuqt.netlify.app/qt.png"/></a>
 </p>
 
 
