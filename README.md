@@ -11,7 +11,6 @@
   <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github.com/iamsonukushwaha/iamsonukushwaha/assets/51280276/dde456e7-35ae-4572-8787-4ab3dd1c832b"/></a>
 </p>
 
-
 <br>
 
 
@@ -24,10 +23,7 @@
 <br>
 <br>
 
-
-
-
-Go to your terminal and type: 
+To download my resume, run the following command in your terminal:
 ```
 curl -O https://sonukushwaha.com/resume.pdf && resume.pdf
 ```
@@ -36,7 +32,7 @@ curl -O https://sonukushwaha.com/resume.pdf && resume.pdf
 <br>
 
 
-Go to your terminal and type: 
+To see a summary of my profile, run this command:
 ```
 npx sonukushwaha
 ```
@@ -82,7 +78,7 @@ npx sonukushwaha
 
 <br><br><br><br>
 
-**[See Browser Extensions Created by me](https://microsoftedge.microsoft.com/addons/search?developer=singlebucks)**
+**[Check out the browser extensions I've created](https://microsoftedge.microsoft.com/addons/search?developer=singlebucks)**
 
 <br/><br/>
 
