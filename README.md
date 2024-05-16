@@ -30,7 +30,7 @@
 
 To download my resume, run the following command in your terminal:
 ```
-curl -O https://sonukushwaha.com/resume.pdf && resume.pdf
+curl -O https://www.sonukushwaha.com/resume.pdf && resume.pdf
 ```
 
 <br>
