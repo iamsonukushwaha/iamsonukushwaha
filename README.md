@@ -96,7 +96,7 @@ npx sonukushwaha
 <br>
 
 <p align="center">
-  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://sonuqt.vercel.app/qt.png"/></a>
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://raw.githubusercontent.com/iamsonukushwaha/q1/main/qt.png?token=GHSAT0AAAAAACMDDCVS7DD6V23FMPUR3NKAZSIXO2Q"/></a>
 </p>
 
 
