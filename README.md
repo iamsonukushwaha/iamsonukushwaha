@@ -7,9 +7,9 @@
 
 -->
 
-<p align="center">
+
   <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github.com/iamsonukushwaha/iamsonukushwaha/assets/51280276/dde456e7-35ae-4572-8787-4ab3dd1c832b"/></a>
-</p>
+
 
 <br>
 
@@ -21,7 +21,7 @@
 
 [blog.sonukushwaha.com](https://blog.sonukushwaha.com)
 
-<br>
+
 <br>
 
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
@@ -47,11 +47,16 @@ npx sonukushwaha
 <br/>
 
 
-<p align="center">
-  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
-</p>
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://metrics.lecoq.io/iamsonukushwaha"/></a>
+
+
 
 <!-- 
+
+<p align="center">
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
+  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://metrics.lecoq.io/iamsonukushwaha"/></a>
+</p>
 
 <p align="center">
 	<a href="https://sonukushwaha.com/resume.pdf"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsonukushwaha&show_icons=true&theme=vue" />
