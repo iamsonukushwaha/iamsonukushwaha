@@ -11,6 +11,7 @@
   <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github.com/iamsonukushwaha/iamsonukushwaha/assets/51280276/dde456e7-35ae-4572-8787-4ab3dd1c832b"/></a>
 
 
+
 <br>
 
 
@@ -100,9 +101,8 @@ npx sonukushwaha
 
 <br>
 
-<p align="center">
-  <a href="https://sonukushwaha.com/resume.pdf"><img src="https://sonuqt.vercel.app/qt.png"/></a>
-</p>
+<a href="https://sonukushwaha.com/resume.pdf"><img src="https://sonuqt.vercel.app/qt.png"/></a>
+
 
 
 <br>
