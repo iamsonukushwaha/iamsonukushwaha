@@ -28,9 +28,8 @@
 [portfolio.sonukushwaha.com](https://portfolio.sonukushwaha.com)
 
 <br>
-<br>
 
-[photos.sonukushwaha.com/](https://photos.sonukushwaha.com/)
+[photos.sonukushwaha.com/](https://photos.sonukushwaha.com)
 
 <br>
 <br>
