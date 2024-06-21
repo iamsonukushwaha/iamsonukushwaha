@@ -29,7 +29,7 @@
 
 <br>
 
-[photos.sonukushwaha.com/](https://photos.sonukushwaha.com)
+[photos.sonukushwaha.com](https://photos.sonukushwaha.com)
 
 <br>
 <br>
