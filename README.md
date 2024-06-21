@@ -34,7 +34,7 @@
 <br>
 <br>
 
-To download my resume, run the following command in your terminal:
+To download my [resume](https://www.sonukushwaha.com/resume.pdf), run the following command in your terminal:
 ```
 curl -O https://www.sonukushwaha.com/resume.pdf && resume.pdf
 ```
