@@ -52,12 +52,11 @@ npx sonukushwaha
 <br/>
 <br/>
 
+<!--
 
   <a href="https://sonukushwaha.com/resume.pdf"><img src="https://metrics.lecoq.io/iamsonukushwaha"/></a>
 
 
-
-<!-- 
 
 <p align="center">
   <a href="https://sonukushwaha.com/resume.pdf"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsonukushwaha&theme=vue"/></a>
