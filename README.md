@@ -105,7 +105,9 @@ npx sonukushwaha
 
 <br>
 
-<a href="https://sonukushwaha.com/resume.pdf"><img src="https://iamsonukushwaha.github.io/qt/qt.png"/></a>
+![](https://iamsonukushwaha.github.io/qt/qt.png)
+
+![](https://raw.githubusercontent.com/iamsonukushwaha/qt/refs/heads/main/qt.png)
 
 
 
