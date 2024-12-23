@@ -75,7 +75,7 @@ npx sonukushwaha
 <br>
 
 <a href="https://sonukushwaha.com/resume.pdf"><img src="https://iamsonukushwaha.github.io/qt/qt.png"/></a>
--->
+
 
 <br/>
 
@@ -97,6 +97,8 @@ npx sonukushwaha
 <br><br><br><br>
 
 **[Check out the browser extensions I've created](https://microsoftedge.microsoft.com/addons/search?developer=singlebucks)**
+
+-->
 
 <br/><br/>
 
