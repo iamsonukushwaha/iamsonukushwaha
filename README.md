@@ -72,6 +72,9 @@ npx sonukushwaha
 [Find more activities here](https://metrics.lecoq.io/about/iamsonukushwaha)
 
 
+<br>
+
+<a href="https://sonukushwaha.com/resume.pdf"><img src="https://iamsonukushwaha.github.io/qt/qt.png"/></a>
 -->
 
 <br/>
@@ -103,9 +106,6 @@ npx sonukushwaha
 	<a href="https://www.youtube.com/@flyingsonu736"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
 </p>
 
-<br>
-
-<a href="https://sonukushwaha.com/resume.pdf"><img src="https://iamsonukushwaha.github.io/qt/qt.png"/></a>
 
 
 <br>
